@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shiblu.msi@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1dQY9ECNYy5IFn7bWC3SooEHFnyki24uK6vozfl8LMJg/edit?usp=sharing](https://docs.google.com/document/d/1dQY9ECNYy5IFn7bWC3SooEHFnyki24uK6vozfl8LMJg/edit?usp=sharing)
+- 📄 Resume: [https://docs.google.com/document/d/1dQY9ECNYy5IFn7bWC3SooEHFnyki24uK6vozfl8LMJg/edit?usp=sharing](https://docs.google.com/document/d/1dQY9ECNYy5IFn7bWC3SooEHFnyki24uK6vozfl8LMJg/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
