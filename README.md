@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Md. Shanto Islam Shiblu</h1>
+<h1 align="center">Hi 👋, I'm Shanto Islam Shiblu</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiblumsi&label=Profile%20views&color=0e75b6&style=flat" alt="shiblumsi" /> </p>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 
 
 - 📫 How to reach me **shiblu.msi@gmail.com**
 
-- 📄 Resume: [https://docs.google.com/document/d/1dQY9ECNYy5IFn7bWC3SooEHFnyki24uK6vozfl8LMJg/edit?usp=sharing](https://docs.google.com/document/d/1dQY9ECNYy5IFn7bWC3SooEHFnyki24uK6vozfl8LMJg/edit?usp=sharing)
+- 📄 Resume: 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
